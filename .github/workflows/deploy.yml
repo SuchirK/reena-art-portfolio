@@ -1,7 +1,7 @@
 name: Deploy to GitHub Pages
 on:
   push:
-    branches: [main] # This tells GitHub: "Run this every time I save to main"
+    branches: [main] # This tells GitHub: "Run this every time I save to main."
 permissions:
   contents: write
 jobs:
